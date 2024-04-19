@@ -1,15 +1,15 @@
 [
   {
     "title": "Innovai Testnet",
-    "url": "http://testnet.inoscan.io/",
+    "url": "https://testnet.inoscan.io/",
     "group": "Testnets",
     "icon": "https://raw.githubusercontent.com/innovairesearch/frontend-config/master/configs/network-icons/ino.svg",
     "invertIconInDarkMode": true
   },
   {
     "title": "Innovai Mainnet",
-    "url": "http://inoscan.io/",
-    "group": "Mainnet",
+    "url": "https://inoscan.io/",
+    "group": "Mainnets",
     "icon": "https://raw.githubusercontent.com/innovairesearch/frontend-config/master/configs/network-icons/ino.svg",
     "invertIconInDarkMode": true,
     "isActive": true
