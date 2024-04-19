@@ -10,7 +10,7 @@
   {
     "title": "Innovai Mainnet",
     "url": "http://inoscan.io/",
-    "group": "Mainnet",
+    "group": "Mainnets",
     "icon": "https://raw.githubusercontent.com/innovairesearch/frontend-config/master/configs/network-icons/ino.svg",
     "invertIconInDarkMode": true
   }
